@@ -1,7 +1,7 @@
 SELECT
     job_id,
     name AS company_name,
-    job_title_short AS job_title,
+    job_title,
     job_location,
     job_schedule_type,
     salary_year_avg,
