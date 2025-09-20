@@ -16,7 +16,7 @@ La meta es identificar agentes con alto y bajo rendimiento, entender los factore
 
 Los datos provienen de registros de **Conversiones** y **Llamadas**.
 
-##Herramientas Utilizadas
+## Herramientas Utilizadas
 - **SQL (PostgreSQL):** creación de tablas, carga de datos y consultas de análisis.  
 - **Power BI:** construcción de dashboards interactivos.  
 - **Git & GitHub:** control de versiones y documentación.  
