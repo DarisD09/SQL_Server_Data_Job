@@ -21,3 +21,7 @@ FROM
 ORDER BY
     year;
 
+SELECT
+    *
+FROM
+    layoffs

@@ -1,5 +1,26 @@
 # 📊 Agent Performance Analysis
 
+## Executive Summary
+### Purpose
+This analysis evaluates operational performance within an outbound call center environment. The objective is to analyze agent effectiveness, contactability, and dialing efficiency in order to identify operational inefficiencies and recommend process improvements that can increase successful customer contacts and conversions without increasing staffing or call volume.
+
+### Key Findings
+- A large majority of outbound call attempts do not result in live customer contact, indicating significant dialing inefficiency.
+- Call outcomes are highly dependent on time of day, with midday hours producing substantially higher effective contact rates than evening hours.
+- Agent performance differences are influenced not only by skill but also by lead distribution and lead quality.
+- Some agents classified as underperformers are likely affected by poor quality lead assignments rather than productivity issues.
+- Technical call outcomes (e.g., system errors, unreachable numbers, failed routing) materially reduce operational productivity.
+
+### Operational Impact
+If implemented, the recommendations from this analysis could:
+- Increase effective contacts without increasing call volume
+- Improve agent productivity and fairness of performance evaluation
+- Reduce wasted dialing effort and operational downtime
+- Support better staffing and workforce management decisions
+- Improve customer experience by prioritizing higher probability contact windows
+
+---
+
 ## Introduction
 This project analyzes the performance of customer service and sales agents at **FinServe Contact Center**, focusing on **conversion rates**, **contactability**, and **operational efficiency**.
 
