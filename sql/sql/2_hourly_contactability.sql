@@ -20,7 +20,7 @@ SELECT
         END
     ) AS contacted_calls
 FROM 
-    llamadas
+    calls
 GROUP BY 
     hour
 ORDER BY 
