@@ -8,7 +8,7 @@ WITH clean_calls AS (
             )
         ) AS call_status
     FROM 
-        calls
+        llamadas
 ),
 categorized_calls AS (
     SELECT

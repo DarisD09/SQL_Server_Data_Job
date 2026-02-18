@@ -3,7 +3,7 @@ WITH base AS (
     split_part(users, ' ', 1) AS team,
     COALESCE(NULLIF(last_wrap_up,''), wrap_up) AS call_status
   FROM 
-    calls
+    llamadas
 )
 SELECT
   team,
